@@ -18,5 +18,5 @@ The footer section has a background color of rgb(44, 62, 80) and the copyright i
 This report provides an overview of a basic web page created using HTML. The webpage consists of a header section with navigation links, a main section with an image and text, and a footer section with copyright information. The webpage is styled using CSS to give it a professional and visually appealing look.
 
 # resources:
-Background image source: 
-Image source: 
+Background image source: https://i0.wp.com/backgroundabstract.com/wp-content/uploads/edd/2022/04/polygonal3-e1655936572424.jpg?resize=1000%2C750&ssl=1
+Image source: https://camillestyles.com/wp-content/uploads/2023/10/thanksgiving-table-setting-ideas.jpg
